@@ -61,5 +61,8 @@ Hazır sistemler yerine sıfırdan kurduğum bu yapı, yazılım geliştirme sü
 
 ## 📸 Ekran Görselleri
 
+![Image](https://github.com/user-attachments/assets/32bf7ce8-bb2d-4795-824a-f66b42cfd810)
+
+
 
 
