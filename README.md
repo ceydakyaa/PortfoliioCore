@@ -76,3 +76,5 @@ Hazır sistemler yerine sıfırdan kurduğum bu yapı, yazılım geliştirme sü
 ![Image](https://github.com/user-attachments/assets/39602f6d-fbae-4f9b-b234-e5b7c3168fdc)
 
 ![Image](https://github.com/user-attachments/assets/5d97f360-3b01-44ea-92bd-50dd67bcd037)
+
+![Image](https://github.com/user-attachments/assets/ba5e90b2-c465-4b1e-9b6a-6e5657ab3f29)
